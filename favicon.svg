@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="BrazilCo">
+  <rect width="64" height="64" rx="14" fill="#10b981"/>
+  <g fill="#fafaf9" transform="translate(7,8) scale(0.75)">
+    <rect x="12" y="8" width="10" height="48"/>
+    <path d="M26 8 H41 A11 11 0 0 1 41 30 H26 Z"/>
+    <path d="M26 34 H43 A11 11 0 0 1 43 56 H26 Z"/>
+  </g>
+</svg>
